@@ -1,0 +1,2 @@
+A gitignore file is a text file that outlines to Git which files or folders to ignore when committing projects to the repository. 
+These files are important because there are certain files that we want ignored. For example, files that contain sensitive data, files that are specific to your system and does not need to exist on every machine and it also maintains system security rules.

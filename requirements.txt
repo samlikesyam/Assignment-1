@@ -1,0 +1,5 @@
+numpy==1.26.0
+pandas==2.2.2
+matplotlib==3.8.4
+
+This file is used to outline the list of packages or libraries that is required for the project. It allows users to see the packages and its versions which facilitates collaboration.
